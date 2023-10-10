@@ -6,15 +6,15 @@ using System.Threading.Tasks;
 
 namespace fundamentals.Models
 {
-    class Beer : Drink, IBeerAlcoholic
+    class Vino : Drink, IBeerAlcoholic
     {
         public int Alcohol { get; set; }
         public void MaxRecomendado()
         {
-           Console.WriteLine("El maximo permitido son 10 cervezas:") ;
+            Console.WriteLine("El maximo permitido son 3 Copas Vino:");
         }
-        public Beer(int id,string Name="Coronita", string Description= "Descripcion", int quantity=45)
-              :base(id, Name, Description, quantity)
+        public Vino(int id, string Name = "Vino", string Description = "Descripcion", int quantity = 145)
+              : base(id, Name, Description, quantity)
         {
 
         }

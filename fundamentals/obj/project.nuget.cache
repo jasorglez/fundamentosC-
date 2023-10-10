@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TArHTIXT1KCSqlzN5uLMPwrK2sZf5af6TWhS79+Qz9BNrMHtPBGnJoJ+lZOXTzxdKbIEH+by82vbocaLOXD1Cw==",
+  "dgSpecHash": "f49PgU6jN9HoRODm9fMN44XNnHMOgJYmYyjADxYqY0XBYo1j7o4baLLA7u4QFOovqReN728/++NbwboJ9vlUpA==",
   "success": true,
-  "projectFilePath": "C:\\Developer\\Visual Studio 22\\hectordeleon\\fundamentos\\fundamentals\\fundamentals\\fundamentals.csproj",
+  "projectFilePath": "C:\\Developer\\Visual Studio 22\\hectordeleon\\fundamentosC-\\fundamentals\\fundamentals.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jsorg\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.9\\microsoft.windowsdesktop.app.ref.7.0.9.nupkg.sha512",
     "C:\\Users\\jsorg\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.9\\microsoft.netcore.app.ref.7.0.9.nupkg.sha512",

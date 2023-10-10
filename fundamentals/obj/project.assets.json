@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Developer\\Visual Studio 22\\hectordeleon\\fundamentos\\fundamentals\\fundamentals\\fundamentals.csproj",
+      "projectUniqueName": "C:\\Developer\\Visual Studio 22\\hectordeleon\\fundamentosC-\\fundamentals\\fundamentals.csproj",
       "projectName": "fundamentals",
-      "projectPath": "C:\\Developer\\Visual Studio 22\\hectordeleon\\fundamentos\\fundamentals\\fundamentals\\fundamentals.csproj",
+      "projectPath": "C:\\Developer\\Visual Studio 22\\hectordeleon\\fundamentosC-\\fundamentals\\fundamentals.csproj",
       "packagesPath": "C:\\Users\\jsorg\\.nuget\\packages\\",
-      "outputPath": "C:\\Developer\\Visual Studio 22\\hectordeleon\\fundamentos\\fundamentals\\fundamentals\\obj\\",
+      "outputPath": "C:\\Developer\\Visual Studio 22\\hectordeleon\\fundamentosC-\\fundamentals\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
