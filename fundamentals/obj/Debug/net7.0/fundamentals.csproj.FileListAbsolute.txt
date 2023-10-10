@@ -1,0 +1,14 @@
+C:\Developer\Visual Studio 22\hectordeleon\fundamentos\fundamentals\fundamentals\bin\Debug\net7.0\fundamentals.exe
+C:\Developer\Visual Studio 22\hectordeleon\fundamentos\fundamentals\fundamentals\bin\Debug\net7.0\fundamentals.deps.json
+C:\Developer\Visual Studio 22\hectordeleon\fundamentos\fundamentals\fundamentals\bin\Debug\net7.0\fundamentals.runtimeconfig.json
+C:\Developer\Visual Studio 22\hectordeleon\fundamentos\fundamentals\fundamentals\bin\Debug\net7.0\fundamentals.dll
+C:\Developer\Visual Studio 22\hectordeleon\fundamentos\fundamentals\fundamentals\bin\Debug\net7.0\fundamentals.pdb
+C:\Developer\Visual Studio 22\hectordeleon\fundamentos\fundamentals\fundamentals\obj\Debug\net7.0\fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developer\Visual Studio 22\hectordeleon\fundamentos\fundamentals\fundamentals\obj\Debug\net7.0\fundamentals.AssemblyInfoInputs.cache
+C:\Developer\Visual Studio 22\hectordeleon\fundamentos\fundamentals\fundamentals\obj\Debug\net7.0\fundamentals.AssemblyInfo.cs
+C:\Developer\Visual Studio 22\hectordeleon\fundamentos\fundamentals\fundamentals\obj\Debug\net7.0\fundamentals.csproj.CoreCompileInputs.cache
+C:\Developer\Visual Studio 22\hectordeleon\fundamentos\fundamentals\fundamentals\obj\Debug\net7.0\fundamentals.dll
+C:\Developer\Visual Studio 22\hectordeleon\fundamentos\fundamentals\fundamentals\obj\Debug\net7.0\refint\fundamentals.dll
+C:\Developer\Visual Studio 22\hectordeleon\fundamentos\fundamentals\fundamentals\obj\Debug\net7.0\fundamentals.pdb
+C:\Developer\Visual Studio 22\hectordeleon\fundamentos\fundamentals\fundamentals\obj\Debug\net7.0\fundamentals.genruntimeconfig.cache
+C:\Developer\Visual Studio 22\hectordeleon\fundamentos\fundamentals\fundamentals\obj\Debug\net7.0\ref\fundamentals.dll
