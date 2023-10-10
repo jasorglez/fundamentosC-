@@ -13,8 +13,8 @@ namespace fundamentals.Models
         {
             Console.WriteLine("El maximo permitido son 3 Copas Vino:");
         }
-        public Vino(int id, string Name = "Vino", string Description = "Descripcion", int quantity = 145)
-              : base(id, Name, Description, quantity)
+        public Vino( string Name = "Vino", string Description = "Descripcion", int quantity = 145)
+              : base( Name, Description, quantity)
         {
 
         }

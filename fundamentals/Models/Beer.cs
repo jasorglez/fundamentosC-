@@ -9,13 +9,13 @@ namespace fundamentals.Models
     class Beer : Drink, IBeerAlcoholic
     {
         public int Alcohol { get; set; }
-        public string Marca { get; set; }
+        public string ?Marca { get; set; }
         public void MaxRecomendado()
         {
            Console.WriteLine("El maximo permitido son 10 cervezas:") ;
         }
-        public Beer(int id,string Name="Coronita", string Description= "Descripcion", int quantity=45)
-              :base(id, Name, Description, quantity)
+        public Beer(string Name="Coronita", string Description= "Descripcion", int quantity=45)
+              :base(Name, Description, quantity)
         {
 
         }
