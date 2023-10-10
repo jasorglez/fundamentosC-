@@ -9,6 +9,7 @@ namespace fundamentals.Models
     class Beer : Drink, IBeerAlcoholic
     {
         public int Alcohol { get; set; }
+        public string Marca { get; set; }
         public void MaxRecomendado()
         {
            Console.WriteLine("El maximo permitido son 10 cervezas:") ;

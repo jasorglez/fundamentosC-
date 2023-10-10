@@ -27,3 +27,11 @@ C:\Developer\Visual Studio 22\hectordeleon\fundamentosC-\fundamentals\obj\Debug\
 C:\Developer\Visual Studio 22\hectordeleon\fundamentosC-\fundamentals\obj\Debug\net7.0\fundamentals.pdb
 C:\Developer\Visual Studio 22\hectordeleon\fundamentosC-\fundamentals\obj\Debug\net7.0\fundamentals.genruntimeconfig.cache
 C:\Developer\Visual Studio 22\hectordeleon\fundamentosC-\fundamentals\obj\Debug\net7.0\ref\fundamentals.dll
+C:\Developer\Visual Studio 22\hectordeleon\fundamentosC-\fundamentals\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Developer\Visual Studio 22\hectordeleon\fundamentosC-\fundamentals\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Developer\Visual Studio 22\hectordeleon\fundamentosC-\fundamentals\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Developer\Visual Studio 22\hectordeleon\fundamentosC-\fundamentals\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Developer\Visual Studio 22\hectordeleon\fundamentosC-\fundamentals\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Developer\Visual Studio 22\hectordeleon\fundamentosC-\fundamentals\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Developer\Visual Studio 22\hectordeleon\fundamentosC-\fundamentals\obj\Debug\net7.0\fundamentals.csproj.AssemblyReference.cache
+C:\Developer\Visual Studio 22\hectordeleon\fundamentosC-\fundamentals\obj\Debug\net7.0\fundamentals.csproj.CopyComplete

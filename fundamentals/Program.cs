@@ -4,14 +4,11 @@ using System;
 
 
 
+CervezaBD cervezaBD = new CervezaBD();
 
-var bebidaAlcoholica = new Vino(100);
-MostrarRecomendacion(bebidaAlcoholica);
+var cervezas = cervezaBD.Get();
 
-var bebidaAlc2 = new Beer(90);
-MostrarRecomendacion(bebidaAlc2);
-
-static void MostrarRecomendacion(IBeerAlcoholic bebida)
+foreach (var item in cervezas)
 {
-    bebida.MaxRecomendado();
+    Console.WriteLine(item.Name);
 }
