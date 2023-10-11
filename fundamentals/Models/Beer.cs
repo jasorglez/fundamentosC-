@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace fundamentals.Models
 {
-    class Beer : Drink, IBeerAlcoholic
+    public class Beer : Drink, IBeerAlcoholic
     {
         public int Alcohol { get; set; }
         public string ?Marca { get; set; }
@@ -14,8 +14,8 @@ namespace fundamentals.Models
         {
            Console.WriteLine("El maximo permitido son 10 cervezas:") ;
         }
-        public Beer(string Name="Coronita", string Description= "Descripcion", int quantity=45)
-              :base(Name, Description, quantity)
+        public Beer(string Name="Coronita", int quantity=45)
+              :base(Name, quantity)
         {
 
         }

@@ -34,7 +34,7 @@ namespace fundamentals.Models
                     string Name = reader.GetString(1);
                     string Descrip = reader.GetString(5);
 
-                    Beer cerveza = new Beer( Name, Descrip, Cantidad);
+                    Beer cerveza = new Beer( Name,  Cantidad);
 
                     cerveza.Alcohol = reader.GetInt32(3);
                     cerveza.Marca = reader.GetString(2);
@@ -56,7 +56,7 @@ namespace fundamentals.Models
             {
                 var command = new SqlCommand(query, connection);
                 command.Parameters.AddWithValue("@Nombre", beer.Name);
-                command.Parameters.AddWithValue("@Desc", beer.Description);
+
                 command.Parameters.AddWithValue("@Brand", beer.Marca);
                 command.Parameters.AddWithValue("@Alc", beer.Alcohol);
                 command.Parameters.AddWithValue("@Quant", beer.quantity);

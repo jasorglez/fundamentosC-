@@ -6,18 +6,20 @@ using System.Threading.Tasks;
 
 namespace fundamentals.Models
 {
-    internal class Drink
+    public class Drink
 
     {
-        public int Id { get; set; }
+
         public string Name { get; set; }
-        public string Description { get; set; }
-        public int quantity { get; set; }   
-        public Drink( string name, string description, int quantity)
+
+        public int quantity { get; set; }
+
+        //esto es un constructor
+        public Drink( string name, int quantity)
         {
             
             this.Name = name;
-            this.Description = description;
+       
             this.quantity = quantity;
         }
 
