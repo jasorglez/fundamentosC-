@@ -1,17 +1,28 @@
 ﻿using fundamentals.Models;
 using System.Text.Json ;
 using System.Text.Json.Serialization;
-using System;
+using System.IO;
 
+namespace fundamentals
+{
+    class Program
+    {
+        static async Task Main(string[]args)
+        {
+            string url = "https://jsonplaceholder.typicode.com/posts";
 
-Beer beer = new Beer("Azul", "Descripcion del JSON", 34);
+            HttpClient client = new HttpClient();
 
-string miJson = JsonSerializer.Serialize(beer);
+            var httpResponse = await client.GetAsync(url);
 
-File.WriteAllText("objeto.txt", miJson);
+            if (httpResponse.IsSuccessStatusCode)
+            {
+                var content = await httpResponse.Content.ReadAsStringAsync();
 
-string miJsonw = File.ReadAllText("objeto.txt");
+                List<Models.Post> posts =
+                        JsonSerializer.Deserialize<List<Models.Post>>(content);
 
-Beer beer2  = JsonSerializer.Deserialize<Beer>(miJsonw);
-
-string x = "dd";
+            }
+        }
+    }
+}
